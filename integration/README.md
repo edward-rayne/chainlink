@@ -45,4 +45,4 @@ Now we can interactively run the cypress test runner.
 # from the git repo root
 cd integration
 yarn cypress open
-```
+``
